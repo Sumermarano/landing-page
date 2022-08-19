@@ -1,1 +1,1 @@
-# landing-page
+Yup it's a landing page
